@@ -33,7 +33,6 @@
   </div>
 
 
-<p>
 ### :woman_technologist: About Me :
 I am Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Russia.
 - :seedling: Stack: C++, Python, Java
