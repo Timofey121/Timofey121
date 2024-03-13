@@ -51,5 +51,5 @@ What about math?
 <a href="https://boosty.to/timofey121/single-payment/donation/192650?share=target_link" alt="Donate"><img src="https://user-images.githubusercontent.com/77741432/181796619-98d0ee92-0a58-4eb8-80be-58337e58c47a.png" width="150" height="45"/></a>
 
 
-### <!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
