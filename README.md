@@ -22,10 +22,10 @@
 <img src="[https://www.icegif.com/wp-content/uploads/2023/03/icegif-1711.gif](https://tenor.com/ru/view/github-cat-kitty-waiting-loading-gif-25774588)" align="right" width="300px">
   </div>
 </div>
-<div>
-  <br>
 
   <div align="center">
+  <br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timofey121)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Timofey121)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Timofey121)
