@@ -24,10 +24,12 @@
 </div>
 <div>
   <br>
-  
+
+  <div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timofey121)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Timofey121)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Timofey121)
+  </div>
 
 ### :woman_technologist: About Me :
 I am Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Russia.
