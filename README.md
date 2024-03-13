@@ -26,13 +26,14 @@
   <div align="center">
   <br>
 
-<p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timofey121)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Timofey121)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Timofey121)
   </div>
 
+
+<p>
 ### :woman_technologist: About Me :
 I am Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Russia.
 - :seedling: Stack: C++, Python, Java
