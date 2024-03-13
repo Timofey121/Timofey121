@@ -30,6 +30,29 @@ What about math?
 
 <a href="https://boosty.to/timofey121/single-payment/donation/192650?share=target_link" alt="Donate"><img src="https://user-images.githubusercontent.com/77741432/181796619-98d0ee92-0a58-4eb8-80be-58337e58c47a.png" width="150" height="45"/></a>
 
+
+### [![wakatime](https://wakatime.com/badge/user/018be3b7-2169-4818-a96c-8487b4eb26f4.svg)](https://wakatime.com/@018be3b7-2169-4818-a96c-8487b4eb26f4)
+
+<br><br>
+</div>
+<div>
+<h2 align="center">           Main Skills 📇  </h2>
+ <br>
+<p>
+  <div align="center">
+
+<img src="[https://www.icegif.com/wp-content/uploads/2023/03/icegif-1711.gif](https://tenor.com/ru/view/github-cat-kitty-waiting-loading-gif-25774588)" align="right" width="300px">
+  </div>
+</div>
+<div>
+  <br>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timofey121&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Timofey121&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Timofey121&theme=aura)
+
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
