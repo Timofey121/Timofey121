@@ -1,8 +1,6 @@
 <div align="center">
   </a>
 <h2 align="center">   <a href="https://t.me/Timofey1211">           My Telegram 📇 
-  
-<a href="https://boosty.to/timofey121/single-payment/donation/192650?share=target_link" alt="Donate"><img src="https://user-images.githubusercontent.com/77741432/181796619-98d0ee92-0a58-4eb8-80be-58337e58c47a.png" width="150" height="45"/></a>
 
   </a> </h2>
 </div>
