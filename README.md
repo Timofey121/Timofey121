@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=80F7C4&random=false&width=435&lines=Hi%2C+I'm+Timofey, BRO](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=80F7C4&random=false&width=435&lines=Hi%2C+I'm+Timofey+BRO](https://git.io/typing-svg)
 
 <div>
 <h2 align="center"> 🦊 About 🦊 </h2>
@@ -18,7 +18,6 @@
 <b>Hobbys:</b> Programming & Music Editing
 </li>
 
-### [![wakatime](https://wakatime.com/badge/user/018be3b7-2169-4818-a96c-8487b4eb26f4.svg)](https://wakatime.com/@018be3b7-2169-4818-a96c-8487b4eb26f4)
 
 <br><br>
 </div>
