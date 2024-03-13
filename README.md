@@ -13,6 +13,24 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<br><br>
+</div>
+<div>
+<h2 align="center">           Main Skills 📇  </h2>
+ <br>
+<p>
+  <div align="center">
+
+<img src="[https://www.icegif.com/wp-content/uploads/2023/03/icegif-1711.gif](https://tenor.com/ru/view/github-cat-kitty-waiting-loading-gif-25774588)" align="right" width="300px">
+  </div>
+</div>
+<div>
+  <br>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timofey121)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Timofey121)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Timofey121)
+
 ### :woman_technologist: About Me :
 I am Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Russia.
 - :seedling: Stack: C++, Python
@@ -32,24 +50,6 @@ What about math?
 
 
 ### [![wakatime](https://wakatime.com/badge/user/018be3b7-2169-4818-a96c-8487b4eb26f4.svg)](https://wakatime.com/@018be3b7-2169-4818-a96c-8487b4eb26f4)
-
-<br><br>
-</div>
-<div>
-<h2 align="center">           Main Skills 📇  </h2>
- <br>
-<p>
-  <div align="center">
-
-<img src="[https://www.icegif.com/wp-content/uploads/2023/03/icegif-1711.gif](https://tenor.com/ru/view/github-cat-kitty-waiting-loading-gif-25774588)" align="right" width="300px">
-  </div>
-</div>
-<div>
-  <br>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timofey121)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Timofey121)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Timofey121)
 
 
 
