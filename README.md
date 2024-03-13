@@ -4,7 +4,7 @@
 <p>&#160;</p>
 <div id="badges" align="center">
   </a>
-  <a href="https://t.me/Timofey1566">
+  <a href="https://t.me/Timofey1211">
     <img src="https://media3.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=ecf05e474wnh53hqt1bc8ymt42elmsiik4l7b0zlywjph2py&rid=giphy.gif&ct=s" width="130" alt="Telegram"/>
   </a>
 </div>
