@@ -26,6 +26,8 @@
   <div align="center">
   <br>
 
+<p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timofey121)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Timofey121)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Timofey121)
