@@ -49,6 +49,3 @@ What about math?
 
 <br></br>
 
-### [![wakatime](https://wakatime.com/badge/user/018e2f44-d94b-4f2b-89ad-8ac2c8afe83c.svg)](https://wakatime.com/@018e2f44-d94b-4f2b-89ad-8ac2c8afe83c)
-
-
