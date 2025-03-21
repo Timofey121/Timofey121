@@ -54,7 +54,7 @@
 ![Spring](https://img.shields.io/badge/spring-green.svg?style=for-the-badge&labelColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=java&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&labelColor=white)
-![Django](https://img.shields.io/badge/django-yelow.svg?style=for-the-badge&labelColor=white)
+![Django](https://img.shields.io/badge/django-%23ED8B00.svg?style=for-the-badge&labelColor=white)
 ![Aiogram](https://img.shields.io/badge/aiogram-blue.svg?style=for-the-badge&labelColor=white)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
