@@ -12,40 +12,72 @@
 </div>
 <p>&#160;</p>
 
-<br><br>
-</div>
-<div>
-<h2 align="center">           Main Skills 📇  </h2>
- <br>
-<p>
-  <div align="center">
+<h1 align="center">Привет👋 Меня зовут Тимофей!</h1>
 
-<img src="[https://www.icegif.com/wp-content/uploads/2023/03/icegif-1711.gif](https://tenor.com/ru/view/github-cat-kitty-waiting-loading-gif-25774588)" align="right" width="300px">
-  </div>
-</div>
+###
 
-  <div align="center">
-  <br>
+<h3 align="left">👩‍💻  Обо мне</h3>
 
+###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timofey121)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Timofey121)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Timofey121)
-  </div>
+<p align="left">Я студент университета ИТМО, направление: Факультет информационных технологий и программирования (ФИТиП)</p>
 
+- 👨🏻‍💼 Second year student
+- 💻 BackEnd developer
+- ⚙️ Interested in back-end and self-development
 
-### :woman_technologist: About Me :
-I am Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Russia.
-- :seedling: Stack: C++, Python, Java
+###
 
-- :telescope: I specialize in Create Site, Parsing websites, Telegram bots. Also solving tasks of varying complexity, including ALGORITHMIC ones that require an effective solution.
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
+###
 
-<br></br>
+<h3 align="left">🛠Стек Технологий:</h3>
 
-What about math?
-- :zap: Linear algebra (matrices, vectors and other types of problems on the subject)
-- :telescope: Mathematical Analysis (differential equations, limits and other types of problems)
+###
 
-<br></br>
+## 🧰 &nbsp;My toolbox
 
+### &nbsp; &nbsp; &nbsp; 📋 &nbsp;Languages
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### &nbsp; &nbsp; &nbsp; 📚 &nbsp;Frameworks, Libraries and ORMs
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=java&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&labelColor=white)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![hibernate](https://img.shields.io/badge/hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![postgres](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### &nbsp; &nbsp; &nbsp; 💻 &nbsp;IDEs/Editors and Instruments
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
+
+### &nbsp; &nbsp; &nbsp; 📀 Design Patterns
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Static Badge](https://img.shields.io/badge/mvc(s)-black?style=for-the-badge&labelColor=white)
