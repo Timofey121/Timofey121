@@ -51,8 +51,11 @@
 ### &nbsp; &nbsp; &nbsp; 📚 &nbsp;Frameworks, Libraries and ORMs
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&labelColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=java&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&labelColor=white)
+![Django](https://img.shields.io/badge/django-black?style=for-the-badge&labelColor=white)
+![Aiogram](https://img.shields.io/badge/aiogram-black?style=for-the-badge&labelColor=white)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![hibernate](https://img.shields.io/badge/hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -77,7 +80,3 @@
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
 
-### &nbsp; &nbsp; &nbsp; 📀 Design Patterns
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Static Badge](https://img.shields.io/badge/mvc(s)-black?style=for-the-badge&labelColor=white)
