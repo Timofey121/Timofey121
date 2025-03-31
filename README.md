@@ -52,11 +52,11 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Spring Boot](https://img.shields.io/badge/spring-%23239120.svg?style=for-the-badge&labelColor=white)
-![Spring Data](https://img.shields.io/badge/spring-boot-%23239120.svg?style=for-the-badge&labelColor=white)
-![Spring Security](https://img.shields.io/badge/spring-seurity-%23239120.svg?style=for-the-badge&labelColor=white)
-![Spring Cloud](https://img.shields.io/badge/spring-cloud-%23239120.svg?style=for-the-badge&labelColor=white)
+![Spring Data](https://img.shields.io/badge/springboot-%23239120.svg?style=for-the-badge&labelColor=white)
+![Spring Security](https://img.shields.io/badge/springseurity-%23239120.svg?style=for-the-badge&labelColor=white)
+![Spring Cloud](https://img.shields.io/badge/springcloud-%23239120.svg?style=for-the-badge&labelColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-blue.svg?style=for-the-badge&labelColor=white)
-![Rest](https://img.shields.io/badge/spring-green.svg?style=for-the-badge&labelColor=white)
+![Rest](https://img.shields.io/badge/api-green.svg?style=for-the-badge&labelColor=white)
 
 ![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=java&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&labelColor=white)
