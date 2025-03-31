@@ -51,7 +51,7 @@
 ### &nbsp; &nbsp; &nbsp; 📚 &nbsp;Frameworks, Libraries and ORMs
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Spring Boot](https://img.shields.io/badge/spring_boot-%23239120.svg?style=for-the-badge&logo=spring&labelColor=black)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%23239120.svg?style=for-the-badge&logo=spring&labelColor=white)
 ![Spring Data](https://img.shields.io/badge/spring_data-%23239120.svg?style=for-the-badge&logo=spring&labelColor=white)
 ![Spring Security](https://img.shields.io/badge/spring_seurity-%23239120.svg?style=for-the-badge&logo=spring&labelColor=white)
 ![Spring Cloud](https://img.shields.io/badge/spring_cloud-%23239120.svg?style=for-the-badge&logo=spring&labelColor=white)
@@ -59,16 +59,16 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&labelColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-blue.svg?style=for-the-badge&labelColor=white)
-![Rest](https://img.shields.io/badge/rest-green.svg?style=for-the-badge&logo=rest&labelColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=servlet&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&logo=jakarta&&labelColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-blue.svg?style=for-the-badge&logo=kubernetes&labelColor=white)
+![Rest](https://img.shields.io/badge/rest-green.svg?style=for-the-badge&logo=rest&logo=rest&labelColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=servlet&logo=servlet&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&logo=jakarta&logo=jakarta&labelColor=white)
 ![hibernate](https://img.shields.io/badge/hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logo=jdbc&logoColor=white)
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Django](https://img.shields.io/badge/django-yelow.svg?style=for-the-badge&logo=django&labelColor=white)
+![Django](https://img.shields.io/badge/django-yelow.svg?style=for-the-badge&logo=django&labelColor=black)
 ![Aiogram](https://img.shields.io/badge/aiogram-blue.svg?style=for-the-badge&logo=aiogram&labelColor=white)
 
 
