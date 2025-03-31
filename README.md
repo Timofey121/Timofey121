@@ -51,7 +51,7 @@
 ### &nbsp; &nbsp; &nbsp; 📚 &nbsp;Frameworks, Libraries and ORMs
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Spring Boot](https://img.shields.io/badge/spring_boot-%23239120.svg?style=for-the-badge&logo=spring&labelColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%23239120.svg?style=for-the-badge&logo=spring&labelColor=black)
 ![Spring Data](https://img.shields.io/badge/spring_data-%23239120.svg?style=for-the-badge&logo=spring&labelColor=white)
 ![Spring Security](https://img.shields.io/badge/spring_seurity-%23239120.svg?style=for-the-badge&logo=spring&labelColor=white)
 ![Spring Cloud](https://img.shields.io/badge/spring_cloud-%23239120.svg?style=for-the-badge&logo=spring&labelColor=white)
