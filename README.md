@@ -65,9 +65,9 @@
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Rest](https://img.shields.io/badge/rest-green.svg?style=for-the-badge&logo=rest&logo=rest&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=servlet&logo=servlet&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&logo=jakarta&logo=jakarta&logoColor=white)
+![Rest](https://img.shields.io/badge/rest-green.svg?style=for-the-badge&logo=rest&logo=restapi&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=servlets&logo=servlet&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&logo=jakartaee&logo=jakarta&logoColor=white)
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
