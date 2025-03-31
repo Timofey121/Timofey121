@@ -52,9 +52,9 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Spring Boot](https://img.shields.io/badge/spring-%23239120.svg?style=for-the-badge&labelColor=white)
-![Spring Data](https://img.shields.io/badge/springboot-%23239120.svg?style=for-the-badge&labelColor=white)
-![Spring Security](https://img.shields.io/badge/springseurity-%23239120.svg?style=for-the-badge&labelColor=white)
-![Spring Cloud](https://img.shields.io/badge/springcloud-%23239120.svg?style=for-the-badge&labelColor=white)
+![Spring Data](https://img.shields.io/badge/spring_boot-%23239120.svg?style=for-the-badge&labelColor=white)
+![Spring Security](https://img.shields.io/badge/spring_seurity-%23239120.svg?style=for-the-badge&labelColor=white)
+![Spring Cloud](https://img.shields.io/badge/spring_cloud-%23239120.svg?style=for-the-badge&labelColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-blue.svg?style=for-the-badge&labelColor=white)
 ![Rest](https://img.shields.io/badge/api-green.svg?style=for-the-badge&labelColor=white)
 
