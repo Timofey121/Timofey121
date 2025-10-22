@@ -1,8 +1,7 @@
 <div align="center">
+  <a href="https://t.me/Timofey1211">
+    <h2 align="center">📱 Contact Me on Telegram</h2>
   </a>
-<h2 align="center">   <a href="https://t.me/Timofey1211">           My Telegram 📇 
-
-  </a> </h2>
 </div>
 
 <br>
@@ -12,21 +11,27 @@
 </div>
 <p>&#160;</p>
 
-<h1 align="center">Привет👋 Меня зовут Тимофей!</h1>
+<h1 align="center">Hello👋 I'm Timofey!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<p align="left">Я студент университета ИТМО, направление: Факультет информационных технологий и программирования (ФИТиП)</p>
+<p align="left">I'm a student at ITMO University, specializing in Information Technology and Programming (IT&P Faculty)</p>
 
-- 👨🏻‍💼 Second year student
-- 💻 BackEnd developer
-- ⚙️ Interested in back-end and self-development
+- 👨🏻‍💼 Second year Computer Science student
+- 💻 Backend Developer
+- ⚙️ Passionate about backend development and continuous learning
+- 🌱 Currently expanding my skills in enterprise Java development
 
-###
+### 🎯 Professional Goals
+- Seeking internship opportunities in backend development
+- Interested in working with microservices architecture
+- Passionate about building scalable and efficient systems
+
+### 📈 GitHub Stats
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -34,7 +39,7 @@
 
 ###
 
-<h3 align="left">🛠Стек Технологий:</h3>
+<h3 align="left">🛠️ Tech Stack:</h3>
 
 ###
 
@@ -53,7 +58,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%23239120.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data](https://img.shields.io/badge/spring_data-%23239120.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/spring_seurity-%23239120.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/spring_security-%23239120.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/spring_cloud-%23239120.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
@@ -71,7 +76,7 @@
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Django](https://img.shields.io/badge/django-yelow.svg?style=for-the-badge&logo=django&logoColor=black)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/aiogram-blue.svg?style=for-the-badge&logo=aiogram&logoColor=white)
 
 
@@ -94,4 +99,30 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![JetBrains](https://img.shields.io/badge/JetBrains-orange.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+
+---
+
+### 📞 Let's Connect!
+
+<div align="center">
+  <a href="https://t.me/Timofey1211">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/timofey-yurtaev-b49a2838b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+### 💼 Open to Opportunities
+- 🎯 **Internships** in Backend Development
+- 🚀 **Junior Developer** positions
+- 🤝 **Collaboration** on open-source projects
+- 📚 **Mentorship** opportunities
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Timofey121&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
