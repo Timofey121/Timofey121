@@ -19,17 +19,14 @@
 
 ###
 
-<p align="left">I'm a student at ITMO University, specializing in Information Technology and Programming (IT&P Faculty)</p>
+<p align="left">Java Backend Developer from Saint Petersburg. Student at ITMO University (IT&P Faculty, Information Systems and Technologies, 09.03.02)</p>
 
-- 👨🏻‍💼 Second year Computer Science student
-- 💻 Backend Developer
-- ⚙️ Passionate about backend development and continuous learning
-- 🌱 Currently expanding my skills in enterprise Java development
-
-### 🎯 Professional Goals
-- Seeking internship opportunities in backend development
-- Interested in working with microservices architecture
-- Passionate about building scalable and efficient systems
+- 👨🏻‍💼 3rd year Computer Science student at ITMO
+- 💼 Java Backend Developer (Junior+) at **Tbank**
+- 🏢 Ex-intern at **MTS** (IT-cluster Telecom) — microservices, legacy refactoring, Kafka
+- 🎓 Java Mentor at ITMO — code reviews, architecture guidance
+- 🏆 Hackathon Winner — **AXENIX AI Challenge & HSB** (SWAGSlides — AI presentation generator)
+- ⚙️ Passionate about microservices, distributed systems, and clean architecture
 
 ### 📈 GitHub Stats
 
@@ -39,66 +36,86 @@
 
 ###
 
-<h3 align="left">🛠️ Tech Stack:</h3>
+<h3 align="left">🛠️ Tech Stack</h3>
 
 ###
 
-## 🧰 &nbsp;My toolbox
+## 🧰 &nbsp;My Toolbox
 
 ### &nbsp; &nbsp; &nbsp; 📋 &nbsp;Languages
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### &nbsp; &nbsp; &nbsp; 📚 &nbsp;Frameworks, Libraries and ORMs
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Spring Boot](https://img.shields.io/badge/spring_boot-%23239120.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data](https://img.shields.io/badge/spring_data-%23239120.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/spring_security-%23239120.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/spring_cloud-%23239120.svg?style=for-the-badge&logo=spring&logoColor=white)
-
+### &nbsp; &nbsp; &nbsp; 📚 &nbsp;Backend & Frameworks
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-blue.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![hibernate](https://img.shields.io/badge/hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logo=jdbc&logoColor=white)
-
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Rest](https://img.shields.io/badge/rest-green.svg?style=for-the-badge&logo=rest&logo=restapi&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=servlets&logo=servlet&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&logo=jakartaee&logo=jakarta&logoColor=white)
-
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Aiogram](https://img.shields.io/badge/aiogram-blue.svg?style=for-the-badge&logo=aiogram&logoColor=white)
-
-
-### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![postgres](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+### &nbsp; &nbsp; &nbsp; 🔗 &nbsp;Integrations & Message Queues
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Jsoup](https://img.shields.io/badge/Jsoup-43853D?style=for-the-badge&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases & Migrations
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+
+### &nbsp; &nbsp; &nbsp; 🧪 &nbsp;Testing
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)
+
+### &nbsp; &nbsp; &nbsp; 🏗️ &nbsp;Infrastructure & Tools
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### &nbsp; &nbsp; &nbsp; 💻 &nbsp;IDEs/Editors and Instruments
+---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![JetBrains](https://img.shields.io/badge/JetBrains-orange.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+### 💼 Work Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Java Backend Developer (Junior+) | **Tbank** | present |
+| Java Backend Intern | **MTS**, IT-cluster Telecom | July 2025 |
+| Java Mentor | **ITMO University** | Sept 2025 — present |
 
 ---
 
@@ -108,7 +125,7 @@
   <a href="https://t.me/Timofey1211">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ale3jurtaev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/timofey-yurtaev-b49a2838b/">
@@ -116,13 +133,6 @@
   </a>
 </div>
 
-### 💼 Open to Opportunities
-- 🎯 **Internships** in Backend Development
-- 🚀 **Junior Developer** positions
-- 🤝 **Collaboration** on open-source projects
-- 📚 **Mentorship** opportunities
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Timofey121&style=flat-square&color=blue" alt="Profile views"/>
 </div>
-
