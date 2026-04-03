@@ -113,8 +113,8 @@
 
 | Role | Company | Period |
 |------|---------|--------|
-| Java Backend Developer (Junior+) | **Tbank** | present |
-| Java Backend Intern | **MTS**, IT-cluster Telecom | July 2025 |
+| Java Backend Developer (Junior+) | **Tbank** | April 2026 - present |
+| Java Backend Intern | **MTS**, IT-cluster Telecom | July 2025 - March 2026 |
 | Java Mentor | **ITMO University** | Sept 2025 — present |
 
 ---
