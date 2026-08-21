@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Timofey Yurtaev 👋
+# Hi, I'm Timofey 👋
 
 ### Go Backend Developer
 
